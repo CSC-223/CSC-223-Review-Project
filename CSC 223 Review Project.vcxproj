@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="CSC 223 Review Project.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PointType.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
