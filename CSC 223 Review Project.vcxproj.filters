@@ -23,5 +23,8 @@
     <ClInclude Include="PointType.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CircleType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
